@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, first and foremost, it's a pleasure to meet you. 👋
+
+Software development student from Brazil, freshman at Universidade Paulista and currently working at Universidade de São Paulo.
+
+I'm currently building a homeservice and writing about my learning experience, so everyone can learn from me as I learn from the others. Written in nixOS and using Docker-compose, Prometheus, Grafana and other tools for my stack, i'm currently hosting and monitoring a minecraft and a jellyfin server for me and my friends.
+You can keep track of this side project on my "nixOS" repo, and you could also see what's next on my "server project to-do" list. Also, if you speak portuguese or if you don't mind to translate, my journey is also avaliable on my substack @devorador.
+
+C and C++ are my main language goals for now and the next, with nix of course, since it's part of what my college is asking for the finals. I've learned a bit of python and another bit in Java and Javascript, but for minor tasks.
+
+
 
 <!--
 **Rozzzena/rozzzena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

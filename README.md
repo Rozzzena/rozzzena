@@ -11,6 +11,4 @@ You can keep track of this side project on my "nixOS" repo, and you could also s
 
 Also, if you speak portuguese, or if you don't mind reading a translated version, there are markdown files at the 'documentacao' folder inside the nix repo, so you can read more about the reasoning behind every decision.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Rozzzena&repo=Rozzzena%2FNixOS&description_lines_count=3&theme=buefy)](https://github.com/Rozzzena/NixOS)
-
 <!-- https://ileriayo.github.io/markdown-badges -->

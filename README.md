@@ -1,16 +1,16 @@
-## Hi there 👋
+![Nix](https://img.shields.io/badge/NIX-%235277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)![ProtonVPN](https://img.shields.io/badge/protonvpn-%2366DEB1.svg?style=for-the-badge&logo=protonvpn&logoColor=black)![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Next Cloud](https://img.shields.io/badge/Next%20Cloud-%230B94DE.svg?style=for-the-badge&logo=nextcloud&logoColor=white)![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)![CLion](https://img.shields.io/badge/CLion-%23000.svg?style=for-the-badge&logo=clion&logoColor=white)![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-<!--
-**Rozzzena/rozzzena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## First and foremost, it's a pleasure to meet you. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software development student from Brazil, freshman at Universidade Paulista and currently working at Universidade de São Paulo. C and C++ are my main language goals for now since it's part of what my college is asking for the finals. I've learned a bit of python and another bit in Java and Javascript, but for minor tasks.
+
+I'm currently building a homeservice and writing about my learning experience, so everyone can learn from me as I learn from the others. Written in nixOS and using Docker-compose, Prometheus, Grafana and other tools for my stack, i'm currently hosting and monitoring a minecraft and a Jellyfin server for me and my friends.
+You can keep track of this side project on my "nixOS" repo, and you could also see what's next on my "server project to-do" list.
+
+
+Also, if you speak portuguese, or if you don't mind reading a translated version, there are markdown files at the 'documentacao' folder inside the nix repo, so you can read more about the reasoning behind every decision.
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Rozzzena&repo=Rozzzena%2FNixOS&description_lines_count=3&theme=buefy)](https://github.com/Rozzzena/NixOS)
+
+<!-- https://ileriayo.github.io/markdown-badges -->

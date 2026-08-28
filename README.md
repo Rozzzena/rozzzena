@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rozzzena)](https://github.com/stats-organization/github-stats-extended)
+
+
 ## First and foremost, it's a pleasure to meet you. 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) 

@@ -39,7 +39,7 @@ rozzzena ~ ❯ neofetch
       \$$$$$$$$$$$$$$$$$$$$$$$0                   Services: Jellyfin, Nextcloud
       $$$$$$$$$$$$$$$$$$$$$$$<                    Workflow & VCS: Git, Antigravity IDE
      k$$$$$$$$$$$$$$$$$$$$$O                      WM/DE: KDE Plasma
-    }$$$$$$$$$$$$$$$$$$$$$:                       Editor: CLion, Cursor, Anytype
+    }$$$$$$$$$$$$$$$$$$$$$:                       Editor: CLion, Cursor, Zed
    "$$$$$$$$$$$$$$$$$$$$h                         Location: São Paulo, Brazil (GMT-3)
    *$$$$$$$$$$$$$$$$$$$f                          
   1$$$$$$$$$$$$$$$$$Z\                            ███ ███ ███ ███ ███ ███ ███ ███
